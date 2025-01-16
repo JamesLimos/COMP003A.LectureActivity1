@@ -1,4 +1,10 @@
-﻿// namespace level
+﻿/* 
+    Author: James Limos
+    Course: Comp-003A
+    Faculty: Jonathan Cruz
+    Purpose: Basic Console App
+ */
+// namespace level
 namespace COMP003A.LectureActivity1
 {
     // class level
